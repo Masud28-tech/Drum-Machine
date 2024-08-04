@@ -1,10 +1,10 @@
-.App {
+.container {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.drum-pads {
+  height: 10vmax;
+  width: 10vmax;
 }
 
 @media (prefers-reduced-motion: no-preference) {
