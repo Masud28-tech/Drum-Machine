@@ -1,8 +1,8 @@
-.container {
+#drum-machine {
   text-align: center;
 }
 
-.drum-pads {
+.drum-pad {
   height: 10vmax;
   width: 10vmax;
 }
